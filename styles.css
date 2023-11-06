@@ -1,0 +1,20 @@
+#scrollButton {
+    position: fixed;
+    top: 0;
+    right: 50%;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
+
+#targetDiv {
+    background-color: green;
+    height: 500px;
+    
+}
+
+#contentDiv {
+    height: 5000px;
+    background-color: gray;
+}
